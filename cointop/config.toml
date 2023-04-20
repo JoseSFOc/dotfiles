@@ -1,0 +1,3 @@
+currency = "USD"
+default_chart_range = "1M"
+api = "coingecko"
